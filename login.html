@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bootstrap-5.3.3-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <img src="images/backgroung.png" id="bg_img" alt="">
+    <div id="headder">
+        <ul class="nav navbar">
+            <li><a href="">Home</a></li>
+            <li><a href="">contact</a></li>
+            <li><a href="#loginPannel">Login</a></li>
+        </ul>
+    </div>
+    <div id="pannel">
+
+        <div id="loginPannel" class="col-md-6">
+            <div id="pannel2" class="col-md-8">
+                <h1>LogIn</h1>
+                <label>UserName</label><br>
+                <input type="text" id="user_name" placeholder="Enter UserName"><br>
+                <label>Password</label><br>
+                <input type="password" id="Password" placeholder="pasword">
+                <img src="" onclick="eye()" id="pass_eye"><br>
+                <button id="login_btn" onclick="login()">LogIn</button>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        <div class="nav navbar">
+            A Template of Login Page: <br>
+            Created by: lakshay khanagwal
+        </div>
+    </div>
+    <script src="Script.js"></script>
+</body>
+
+</html>

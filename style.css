@@ -1,0 +1,126 @@
+body {
+    height: 100vh;
+}
+
+#bg_img {
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    filter: brightness(50%);
+}
+
+#headder {
+    background-color: rgba(0, 0, 0, 0.651);
+    position: relative;
+    top: -100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    margin-bottom: 0px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    margin-left: 20px;
+    font-size: larger;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#pannel {
+    height: 80vh;
+    position: relative;
+    top: -100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#loginPannel {
+    border: 3px solid rgba(255, 255, 255, 0.836);
+    border-radius: 30px;
+    box-shadow: 0px 0px 25px 3px rgba(163, 163, 163, 0.87);
+    height: 80%;
+    backdrop-filter: blur(5px);
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding-top: 6vh;
+}
+
+#pannel2> :not(label, input) {
+    text-align: center;
+}
+
+h1 {
+    /* margin-top: 10vh; */
+    margin-bottom: 2vh;
+    color: whitesmoke;
+    filter: drop-shadow(0px 0px 3px rgb(255, 255, 255));
+    text-decoration: underline;
+}
+
+label {
+    color: whitesmoke;
+    margin: 1vh;
+}
+
+input {
+    width: 100%;
+    height: 7vh;
+    border: none;
+    border-radius: 5px;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 0.062);
+    margin-bottom: 1vh;
+    color: whitesmoke;
+}
+
+#pass_eye {
+    width: 20px;
+    filter: invert(1);
+    position: relative;
+    left: 93%;
+    top: -6.5vh;
+}
+
+#login_btn {
+    margin-top: 2vh;
+    margin-left: 33%;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    background-color: rgba(139, 139, 139, 0.171);
+    color: whitesmoke;
+    height: 7vh;
+    width: 12vw;
+}
+
+#login_btn:hover {
+    border: 2px solid whitesmoke;
+    border-radius: 4px;
+    scale: 1.1;
+    background-color: rgba(139, 139, 139, 0.603);
+}
+
+#footer {
+    background-color: rgba(19, 19, 19, 0.678);
+    position: relative;
+    top: -96.87vh;
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(85, 85, 85, 0.459);
+}
