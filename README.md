@@ -14,26 +14,56 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h4 align="left">So, These files are about login Page Template</h4>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<div align="center">
+  <h1>Login Page Template</h1>
+  <p>A simple and customizable login page template built with HTML, CSS, and JavaScript.</p>
 </div>
+
+## Table of Contents
+
+- [About](#about)
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+This project provides a basic login page template with a clean and modern design. It includes essential features like a toggle for password visibility and a placeholder login action.
+
+## Demo
+
+Include screenshots or a link to a live demo of your project if applicable.
+
+## Features
+
+- Modern and responsive design
+- Toggle password visibility
+- Placeholder login action
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap (for styling)
+
+## Installation
+
+To use this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+   cd your-project
+
 
 ###
