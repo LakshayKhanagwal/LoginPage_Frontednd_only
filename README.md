@@ -73,6 +73,6 @@ This template can be used as a starting point for creating login pages in web ap
 
 ## License
 
-Feel free to adjust the content or add more details if needed!
+Feel free to adjust the content if needed!
 
 ###
