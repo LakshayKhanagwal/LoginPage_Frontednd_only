@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lakshay Khanagwal and I am from India</p>
+<p align="left">My name is Lakshay Khanagwal and I am from India.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning FullStack Web Development<br>🎯 Goals: To Get Handy with Html, CSS and JS</p>
+<p align="left">📚 I'm currently learning FullStack Web Development<br>🎯 Goals: To Get Handy with React, PHP and SQL</p>
 
 ###
 
@@ -26,21 +26,21 @@
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
+- [Output](#output)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
 
 This project provides a basic login page template with a clean and modern design. It includes essential features like a toggle for password visibility and a placeholder login action.
 
-## Demo
+## Output
 
-Include screenshots or a link to a live demo of your project if applicable.
+Output should be look like this
+![Output](https://github.com/LakshayKhanagwal/LoginPage_Template/blob/eca38f5a144a3f0976d091f70c2178ca72ff25f6/images/output.jpg)
 
 ## Features
 
@@ -64,6 +64,13 @@ To use this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-project.git
    cd your-project
+   
+## Usage
 
+This template can be used as a starting point for creating login pages in web applications. Customize the design and functionality according to your project's requirements.
+
+## License
+
+Feel free to adjust the content or add more details if needed!
 
 ###
