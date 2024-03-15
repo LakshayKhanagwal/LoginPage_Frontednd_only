@@ -41,7 +41,7 @@ This project provides a basic login page template with a clean and modern design
 
 Output should be look like this
 ![Output](https://github.com/LakshayKhanagwal/LoginPage_Template/blob/eca38f5a144a3f0976d091f70c2178ca72ff25f6/images/output.jpg)
-![Output](https://github.com/LakshayKhanagwal/LoginPage_Template/blob/eca38f5a144a3f0976d091f70c2178ca72ff25f6/images/output_1.jpg)
+![Output](https://github.com/LakshayKhanagwal/LoginPage_Template/blob/7ed3b2bea1ddc10aafa5d940864d5cee7aa574b7/images/output_1.jpg)
 ![Output](https://github.com/LakshayKhanagwal/LoginPage_Template/blob/eca38f5a144a3f0976d091f70c2178ca72ff25f6/images/output_2.jpg)
 
 ## Features
